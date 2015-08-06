@@ -1,8 +1,10 @@
 ---
 layout: post
-title: How I Won a Kaggle Competition
-tags: [Data Science, Kaggle]
+title: Winning Kaggle
+excerpt: A detailed write up of how I 'won' a Kaggle competition.
 categories: articles
+tags: [Data Science, Kaggle]
+comments: true
 share: true
 ---
 Alright, that title is probably a tiny bit misleading. There are two minor corrections I should make.
