@@ -117,6 +117,7 @@ In the end, I needed a separate prediction for each restaurant for different fut
 I can't emphasize enough just how long it takes to process two million reviews on your home computer. Preprocessing, term-frequency inverse-document-frequency (TFIDF), sentiment, and similarity vectors, this was becoming a real drain on my system. It was taking almost 4.5 hours just for the preprocessing alone. I cut this down to just 18 minutes by taking advantage of the multiple cores in my computer with Pool().
 
 {% highlight python %}
+```
 def preprocess_pool(df, filename):
     # convert text to categories
     cats = df.review_text.astype('category').cat
@@ -154,6 +155,7 @@ def preprocess(tagged):
     else:
         l = ''
     return l.lower()
+```
 {% endhighlight %}
 
 
