@@ -9,6 +9,8 @@ I used to be a lawyer working on high-profile antitrust cases for Japanese compa
 
 In my spare time, I race track bikes. I'm aiming to win the track national championships in 2016.
 
+When I grow up, I would like to be [Neil deGrasse Tyson](http://twitter.com/neiltyson).
+
 ### Other information
 I like long walks on the beach, holding hands and python list comprehensions.
 

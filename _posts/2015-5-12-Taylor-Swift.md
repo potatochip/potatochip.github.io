@@ -3,6 +3,7 @@ layout: post
 title: Categorical Analysis of Taylor Swift's Latest Album
 tags: [Data Science, Taylor Swift, Graphs]
 categories: articles
+share: true
 ---
 ##Out of the Woods
 
