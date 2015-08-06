@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Syrian Civil War Cause of Death
+excerpt: Visualizing cause of death in the Syrian Civil War.
+categories: articles
 tags: [Data Science, Graphs, D3]
+comments: true
 share: true
-resume: true
-published: false
+permalink: Syrian-War-CoD
 ---
 
 I've started work on showing the change in the use of weapons and tactics in the Syrian Civil War. I whipped up a quick graph illustrating the trend for different causes of death over time.

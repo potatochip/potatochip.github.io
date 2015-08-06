@@ -6,6 +6,7 @@ tags: [Data Science, D3]
 categories: articles
 share: true
 comments: true
+permalink: Heart-Disease-D3
 ---
 
 This was the first time I tried my hand at D3 (or any javascript, for that matter). I'm rather proud that I wrote the thing from scratch rather than just shoving my data into an existing visualization.
