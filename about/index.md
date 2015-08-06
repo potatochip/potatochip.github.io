@@ -6,6 +6,7 @@ image:
   credit: Me
 share: true
 ---
+I like long walks on the beach, holding hands and python list comprehensions.
 
 ### Data Scientist and law refugee
 
@@ -14,9 +15,6 @@ I used to be a lawyer working on high-profile antitrust cases for Japanese compa
 In my spare time, I race track bikes. I'm aiming to win the track national championships in 2016.
 
 When I grow up, I want to be like [Neil deGrasse Tyson](http://twitter.com/neiltyson).
-
-### Other information
-I like long walks on the beach, holding hands and python list comprehensions.
 
 ### Links
 My resume can be found [here]({{ site.baseurl }}/images/aaron_mangum_resume.pdf)
