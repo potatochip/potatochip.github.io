@@ -2,7 +2,7 @@
 layout: page
 title: Aaron Mangum 101
 image:
-  feature: header2.jpg
+  feature: header3.jpg
   credit: Me
 ---
 
