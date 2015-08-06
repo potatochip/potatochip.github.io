@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Visualizing Heart Disease Prediction Models With D3
+title: Visualizing Heart Disease Prediction Models
+excerpt: Using D3 to visualize machine learning models.
 tags: [Data Science, D3]
 categories: articles
 share: true
+comments: true
 ---
 ### D3: so amazing; so frustrating.
 

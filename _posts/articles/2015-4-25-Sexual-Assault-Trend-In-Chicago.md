@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Don't Celebrate New Years in Chicago
+excerpt: Surprising revelations about crime patterns in Chicago.
 tags: [Crime, Data Science]
 categories: articles
 share: true
+comments: true
 ---
 
 ##Chicago Violent Crime in a Nutshell
