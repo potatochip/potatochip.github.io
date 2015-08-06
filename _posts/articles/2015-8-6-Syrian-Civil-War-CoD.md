@@ -6,6 +6,7 @@ categories: articles
 tags: [Data Science, Graphs, D3]
 comments: true
 share: true
+permalink: /:path/:basename/
 ---
 
 I've started work on showing the change in the use of weapons and tactics in the Syrian Civil War. I whipped up a quick graph illustrating the trend for different causes of death over time.
