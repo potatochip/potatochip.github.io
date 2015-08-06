@@ -26,7 +26,7 @@ The goal of the competition was to predict the number of Boston restaurant healt
 You also end up having to predict separately for each restaurant for any point in time in the future. Often the competition required predicting multiple inspection dates for a single restaurant. The prediction format ended up looking like this. It looks pretty simple at first glance, but the results needed to be much more complex and layered.
 
 <figure>
-	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg" alt="image"></a>
+	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg" alt="image"></a>
 	<figcaption>Prediction format</figcaption>
 </figure>
 
