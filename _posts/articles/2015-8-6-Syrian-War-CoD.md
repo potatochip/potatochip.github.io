@@ -18,4 +18,4 @@ You can see a broad overview of what is happening. The inverse correlation for '
 [Click here to check it out.](http://bl.ocks.org/potatochip/raw/f7fdafc7a0e6635a7a7d/) (It's a bit large to fit on my website.)
 
 
-<iframe src="http://bl.ocks.org/potatochip/raw/f7fdafc7a0e6635a7a7d/" marginwidth="0" marginheight="0" scrolling="no" width="630" frameborder="0">Browswer not supported</iframe>
+<iframe src="http://bl.ocks.org/potatochip/raw/f7fdafc7a0e6635a7a7d/" marginwidth="0" marginheight="0" scrolling="no" width="700" height="600" frameborder="0">Browswer not supported</iframe>
