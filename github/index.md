@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Select GitHub Repositories
-description: "Give my creation... life"
+title: GitHub Repositories
 share: true
 comments: false
 ---
