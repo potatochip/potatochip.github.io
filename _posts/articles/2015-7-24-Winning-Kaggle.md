@@ -30,8 +30,6 @@ You also end up having to predict separately for each restaurant for any point i
 	<figcaption>Prediction format</figcaption>
 </figure>
 
-<!-- [![Prediction format]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg) -->
-
 Some [SciKit-Learn](http://scikit-learn.org) estimators can handle an array as the output (linear regression), but most cannot. So you have to predict for each violation type separately. I took it a step further and based the model on a different set of features for each kind of violation.
 
 The contest scoring was based on a weighted root mean squared error (RMSE). I decided to use this as well as the accuracy for each violation type for testing at home. I made two super rudimentary baselines to judge my models against.
@@ -47,13 +45,19 @@ I had about two weeks left in the competition before I lost.
 
 That probably needs further explanation. I race bicycles when I'm not staring at a computer screen. A lot of people imagine that means I'm doing something like this.
 
-[![Ugh, triathletes]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/triathlete.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/triathlete.jpg)
+<figure>
+	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/triathlete.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/triathlete.jpg" alt="image"></a>
+	<figcaption>Ugh, triathletes</figcaption>
+</figure>
 
 No.
 
 This is the type of racing I do.
 
-[![Real racing]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/real_bike_racing.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/real_bike_racing.jpg)
+<figure>
+	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/real_bike_racing.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/real_bike_racing.jpg" alt="image"></a>
+	<figcaption>Real racing</figcaption>
+</figure>
 
 Ugh, triathletes. Alright, so with two weeks left in the competition I became tangled up in a pretty bad race crash that required surgery. I could barely move, let alone think while on the pain medication they gave me so I ended up laying in bed watching the end of the competition tick closer and closer.
 
