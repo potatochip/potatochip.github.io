@@ -2,6 +2,7 @@
 layout: post
 title: The motherload of datasets
 tags: [Data Science, nerd-out]
+categories: blog
 ---
 
 The US government provides an enormous amount of data for download. Nearly 130,000 separate datasets! Most of it already parsed into your preferred file format. This is seriously amazing.

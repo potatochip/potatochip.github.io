@@ -2,9 +2,10 @@
 layout: post
 title: Welcome to the Brinery
 tags: [Nerd-out, Data Science]
+categories: blog
 ---
 
-Python includes an incredibly userful module for data storage called pickling. I made a function to grab webpages from a website all at once and store them in a pickle so that you don't have to continuously toll the server. 
+Python includes an incredibly userful module for data storage called pickling. I made a function to grab webpages from a website all at once and store them in a pickle so that you don't have to continuously toll the server.
 
 Some nerdy-hilarious highlights from my module
 
