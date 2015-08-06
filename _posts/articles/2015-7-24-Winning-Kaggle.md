@@ -117,7 +117,6 @@ In the end, I needed a separate prediction for each restaurant for different fut
 I can't emphasize enough just how long it takes to process two million reviews on your home computer. Preprocessing, term-frequency inverse-document-frequency (TFIDF), sentiment, and similarity vectors, this was becoming a real drain on my system. It was taking almost 4.5 hours just for the preprocessing alone. I cut this down to just 18 minutes by taking advantage of the multiple cores in my computer with Pool().
 
 {% highlight python %}
-```
 def preprocess_pool(df, filename):
     # convert text to categories
     cats = df.review_text.astype('category').cat
@@ -155,9 +154,7 @@ def preprocess(tagged):
     else:
         l = ''
     return l.lower()
-```
 {% endhighlight %}
-
 
 There is nothing more glorious than watching all of the cores on your computer spin up.
 
@@ -263,7 +260,7 @@ I then took each review-feature-matrix and decomposed it into two components usi
 
 The following is the code I wrote to test different review-based features and different decomposition.
 
-```python
+{% highlight python %}
 def pivot_feature(df, feature, limit=None, decomp='lsi', decomp_features=2, fill='median'):
     # make the large dataframe faster to handle on pivot
     temp = df[['inspection_id', 'enumerated_review_delta'] + [feature]]
@@ -317,7 +314,7 @@ def pivot_feature(df, feature, limit=None, decomp='lsi', decomp_features=2, fill
             return decomposition.fit_transform(pivoted_feature[[i for i in range(limit)]])
         except:
             return pivoted_feature[[i for i in range(limit)]]
-```
+{% endhighlight %}
 
 I also limited the reviews to those that had been created less than a year before the inspection date and created a few new features.
 
@@ -396,7 +393,7 @@ ensembled contest metric of 0.964938365219
 
 Taking this concept one step further, I applied it to multiple estimators rather than iterations of a single estimator. I included several variations of the ExtraTreesClassifier since it was such a bully in the iterative ensemble.
 
-```python
+{% highlight python %}
 meta_pipeline = [
     Pipeline([
             ('scaler', StandardScaler()),
@@ -431,7 +428,7 @@ meta_pipeline = [
             ('clf', ExtraTreesRegressor(n_jobs=-1)),
         ]),
     ]
-```
+{% endhighlight %}
 
 Yes, those are a lot of classifiers for what should be a numerical model. I made the decision early on to treat this as a multi-class classification problem. Yes, the number of violations were ordered, so numerical/regression was the first thing that came to my mind. But as I explored the data, I realized that the the number of violations was finite. They couldn’t be less than zero and couldn’t be more than a maximum. Even if you break every single rule, the number of violations you could get was capped. Level two violations, being based on repeat offenses, had very few classes.
 
