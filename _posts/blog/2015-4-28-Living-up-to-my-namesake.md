@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Living up to my namesake
+excerpt: Highlights from a recent presentation.
 tags: [Data Science, nerd-out]
 categories: blog
 ---

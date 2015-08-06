@@ -1,8 +1,11 @@
 ---
 layout: post
 title: What not to do
+excerpt: A brief how-to on how to waste time.
 tags: [Metis]
 categories: blog
+share: true
+comments: true
 ---
 
 Yesterday, we were assigned to scrape movie data from a website. I was impatient and wanted to jump right in without thoroughly going over the actual website.

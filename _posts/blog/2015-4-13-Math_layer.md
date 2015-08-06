@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Keyboard Math Layer
+excerpt: Creating a custom keyboard layout.
 tags: [Nerd-out, metis]
 categories: blog
+share: true
+comments: true
 ---
 
 I got tired of hunting for math symbols in the mac character viewer during the math portions of class, so I decided to create a math layer on my keyboard using Karabiner. So now, when I hold right-option and press 'i', I get the ∩ (intersection) character. When I press 'u', I get the ∪ (union) character. So handy!

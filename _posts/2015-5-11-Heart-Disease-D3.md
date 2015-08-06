@@ -3,6 +3,7 @@ layout: post
 title: Visualizing Heart Disease Prediction Models With D3
 tags: [Data Science, D3]
 share: true
+resume: true
 ---
 ### D3: so amazing; so frustrating.
 
