@@ -2,7 +2,6 @@
 layout: post
 title: Syrian Civil War Cause of Death
 tags: [Data Science, Graphs, D3]
-categories: articles
 share: true
 ---
 
