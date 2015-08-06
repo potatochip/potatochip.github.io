@@ -25,7 +25,12 @@ The goal of the competition was to predict the number of Boston restaurant healt
 
 You also end up having to predict separately for each restaurant for any point in time in the future. Often the competition required predicting multiple inspection dates for a single restaurant. The prediction format ended up looking like this. It looks pretty simple at first glance, but the results needed to be much more complex and layered.
 
-[![Prediction format]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg)
+<figure>
+	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg" alt="image"></a>
+	<figcaption>Prediction format</figcaption>
+</figure>
+
+<!-- [![Prediction format]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/response_labels.jpg) -->
 
 Some [SciKit-Learn](http://scikit-learn.org) estimators can handle an array as the output (linear regression), but most cannot. So you have to predict for each violation type separately. I took it a step further and based the model on a different set of features for each kind of violation.
 
