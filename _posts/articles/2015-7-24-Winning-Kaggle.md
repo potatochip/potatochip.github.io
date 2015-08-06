@@ -61,13 +61,19 @@ This is the type of racing I do.
 
 Ugh, triathletes. Alright, so with two weeks left in the competition I became tangled up in a pretty bad race crash that required surgery. I could barely move, let alone think while on the pain medication they gave me so I ended up laying in bed watching the end of the competition tick closer and closer.
 
-[![Inside hospital]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/inside_hospital.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/inside_hospital.jpg)
+<figure>
+	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/inside_hospital.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/inside_hospital.jpg" alt="image"></a>
+	<figcaption>Inside hospital</figcaption>
+</figure>
 
 That's me trying to remember what R^2 means.
 
 The drugs were so strong that I accidentally escaped from the hospital.
 
-[![Outside hospital]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/outside_hospital.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/outside_hospital.jpg)
+<figure>
+	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/outside_hospital.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/outside_hospital.jpg" alt="image"></a>
+	<figcaption>Outside hospital</figcaption>
+</figure>
 
 ### How to Win When You Lose
 
