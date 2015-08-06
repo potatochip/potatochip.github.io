@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Aaron Mangum 101
+image:
+  feature: header2.jpg
+  credit: Me
 ---
 
 ### Data Scientist and law refugee
