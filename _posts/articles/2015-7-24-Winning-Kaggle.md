@@ -6,6 +6,7 @@ categories: articles
 tags: [Data Science, Kaggle]
 comments: true
 share: true
+permalink: Winning-Kaggle
 ---
 Alright, that title is probably a tiny bit misleading. There are two minor corrections I should make.
 
