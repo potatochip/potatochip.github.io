@@ -1,0 +1,25 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Articles
+  url: /articles/
+
+- title: Blog
+  url: /blog/
+
+- title: Search
+  url: /search/
+
+- title: GIF Pronounciation
+  url: /pronounciation/
+
+- title: Resume
+  url: /images/aaron_mangum_resume.pdf
+
+- title: Select GitHub Repos
+  url: /github/
+
+- title: Find a Hero
+  url: http://twitter.com/neiltyson
