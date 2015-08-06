@@ -2,6 +2,7 @@
 layout: post
 title: How I Won a Kaggle Competition
 tags: [Data Science, Kaggle]
+categories: articles
 ---
 Alright, that title is probably a tiny bit misleading. There are two minor corrections I should make.
 

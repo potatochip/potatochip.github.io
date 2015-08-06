@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Don't Celebrate New Years in Chicago
+categories: articles
 tags: [Crime, Data Science]
 ---
 
@@ -41,7 +42,7 @@ Most of the data looks like this:
     10027995,04/10/2015 05:00:00 PM,BATTERY
     10027780,04/10/2015 04:57:00 PM,ASSAULT
 
-But then when you get to New Years, a pattern starts to emerge. 
+But then when you get to New Years, a pattern starts to emerge.
 
     9447124,01/01/2014 12:33:00 AM,ASSAULT
     9902846,01/01/2014 12:30:00 AM,CRIM SEXUAL ASSAULT
@@ -75,7 +76,7 @@ But then when you get to New Years, a pattern starts to emerge.
     9728020,01/01/2014 12:00:00 AM,CRIM SEXUAL ASSAULT
     9448361,12/31/2013 11:55:00 PM,BATTERY
 
-Let me know if you can spot the trend. Maybe, you might think to yourself, this is just a random occurrence. I promise, it is not. At first I thought that this must be some sort of sick crime-ring that the police busted one year. Unfortunately, that is not the case. 
+Let me know if you can spot the trend. Maybe, you might think to yourself, this is just a random occurrence. I promise, it is not. At first I thought that this must be some sort of sick crime-ring that the police busted one year. Unfortunately, that is not the case.
 
 ##A Pattern Emerges
 The following is a time-series plot of the last 15 years of criminal sexual assault in Chicago.
@@ -112,7 +113,7 @@ The following is a description of the number of sexual assaults reported in Chic
     75%        5.000000
     max       41.000000
 
-According to these numbers, in 2010, you were 1,095% more likely to be a victim of sexual assault on New Years in Chicago versus the average day. I had to really think about how to format that percentage, since I don't normally work with percents that high. That's how high it is. That is almost 1,100% more likely! I'm not sure I can emphasize that. 
+According to these numbers, in 2010, you were 1,095% more likely to be a victim of sexual assault on New Years in Chicago versus the average day. I had to really think about how to format that percentage, since I don't normally work with percents that high. That's how high it is. That is almost 1,100% more likely! I'm not sure I can emphasize that.
 
 ###***Almost 1,100% more likely!!!***
 
