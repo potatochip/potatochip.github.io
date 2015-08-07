@@ -50,9 +50,7 @@ That probably needs further explanation. I race bicycles when I'm not staring at
 	<figcaption>Ugh, triathletes</figcaption>
 </figure>
 
-No.
-
-This is the type of racing I do.
+No, this is the type of racing I do.
 
 <figure>
 	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/real_bike_racing.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/real_bike_racing.jpg" alt="image"></a>

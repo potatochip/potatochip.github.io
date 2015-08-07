@@ -3,9 +3,6 @@ layout: page
 title: GitHub Repositories
 share: true
 comments: false
-image:
-  feature: header4.jpg
-  credit: Me
 ---
 
 * [Insights and Predictions for Chicago Crime](https://github.com/potatochip/chicago_crime_stats)
