@@ -8,7 +8,7 @@ share: true
 comments: true
 ---
 
-##Chicago Violent Crime in a Nutshell
+### Chicago Violent Crime in a Nutshell
 
 I acquired Chicago violent crime data for a project on the effect of media violence on violent crime (I will post about this soon, I swear). As I was browsing the data, I noticed a very strange trend.
 
@@ -81,7 +81,7 @@ But then when you get to New Years, a pattern starts to emerge.
 
 Let me know if you can spot the trend. Maybe, you might think to yourself, this is just a random occurrence. I promise, it is not. At first I thought that this must be some sort of sick crime-ring that the police busted one year. Unfortunately, that is not the case.
 
-##A Pattern Emerges
+### A Pattern Emerges
 The following is a time-series plot of the last 15 years of criminal sexual assault in Chicago.
 
 ![Sexual Assaults Over 15 Years]({{ site.baseurl }}/images/2015-4-25-Sexual-Assault-Trend-In-Chicago/per_day_15_years.png)
@@ -118,11 +118,11 @@ The following is a description of the number of sexual assaults reported in Chic
 
 According to these numbers, in 2010, you were 1,095% more likely to be a victim of sexual assault on New Years in Chicago versus the average day. I had to really think about how to format that percentage, since I don't normally work with percents that high. That's how high it is. That is almost 1,100% more likely! I'm not sure I can emphasize that.
 
-###***Almost 1,100% more likely!!!***
+### ***Almost 1,100% more likely!!!***
 
 Alright, I emphasized it.
 
-##Final Thoughts
+### Final Thoughts
 ![Sexual Assaults Per Year]({{ site.baseurl }}/images/2015-4-25-Sexual-Assault-Trend-In-Chicago/per_year.png)
 
 Chiacago's performance record *is* getting better. However, I think it is important to note that 68% of sexual assaults go unreported.[^fn-footnote] We are not just looking at 41 separate reported incidences of sexual assault on New Years (when one time alone is disturbing enough). What we are looking at is likely over 128 separate occurences of sexual assault. Seriously messed up.
@@ -133,7 +133,7 @@ We can speculate as to why. People are out with large groups of people they don'
 
 To some, maybe this seems like it would be obvious. However, I feel like parents and loved one's are always giving out warnings for other holidays. "It's Halloween, don't take unwrapped candy." "It's St. Patrick's Day, look out for drunk drivers." But I have never once heard someone say, "it's New Years, be careful, you might get raped."
 
-##Future Topics
+### Future Topics
 
 With part 2 of this post-series, I am planning a similar analysis extended to the rest of the violent crimes in Chicago. I'm hoping to finish a model predicting amount of crime per date for each category.
 
