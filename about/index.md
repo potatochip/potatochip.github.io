@@ -10,7 +10,7 @@ I like long walks on the beach, holding hands and python list comprehensions.
 
 ### Data Scientist and law refugee
 
-I used to be a lawyer working on high-profile antitrust cases for Japanese companies. I returned to my original passions of computer science and data exploration and went back to school for data science.
+I used to be a lawyer working on high-profile antitrust cases for Japanese companies. Then I decided to return to my original passions of computer science and data exploration and went back to school for data science.
 
 In my spare time, I race track bikes. I'm aiming to win the track national championships in 2016. My lady is jealous of my VO2max.
 
