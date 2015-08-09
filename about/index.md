@@ -6,6 +6,9 @@ image:
   credit: Me
 share: true
 ---
+
+おっす！ようこそ！いらっしゃ〜い！
+
 I like long walks on the beach, holding hands and python list comprehensions.
 
 ### Data Scientist and law refugee
