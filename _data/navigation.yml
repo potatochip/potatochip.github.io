@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: About
+- title: About Me
   url: /about/
 
 - title: Articles
@@ -15,7 +15,7 @@
 - title: Resume
   url: /images/aaron_mangum_resume.pdf
 
-- title: Pronounciation
+- title: GIF?
   url: /pronounciation/
 
 - title: Search
