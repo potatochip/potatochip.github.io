@@ -83,7 +83,10 @@ I started off by exploring the metadata. I find that looking at graphical repres
 
 Histograms are always useful for telling if you need to transform your data because the range of values is too large or skewed.
 
-[![Post-tranformation histogram]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/distplot.jpg)]({{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/distplot.jpg)
+<figure>
+	<a href="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/distplot.jpg"><img src="{{ site.baseurl }}/images/2015-7-24-Winning-Kaggle/distplot.jpg" alt="image"></a>
+	<figcaption>Post-tranformation histogram</figcaption>
+</figure>
 
 However, if you care more about seeing what’s going on rather than solving the actual problem then my favorite visualizations are coefficient and correlation plots.
 

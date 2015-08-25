@@ -12,7 +12,7 @@ Dear Ashley,
 
 It seems you're run into some trouble lately. I found a few of the items you left behind. Please take solace in my leaving them here on your doorstep.
 
-First, let's start with the boring stuff.
+First, let's start with the boring stuff (just within NYC).
 
 <figure>
 	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/ethnicity_gender_count.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/ethnicity_gender_count.jpeg" alt="image"></a>
