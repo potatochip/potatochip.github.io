@@ -10,7 +10,7 @@ share: true
 
 Dear Ashley,
 
-It seems you're run into some trouble lately. I found a few of the items you left behind. Please take solace in my returning them here.
+It seems you're run into some trouble lately. I found a few of the items you left behind. Please take solace in my leaving them here on your doorstep.
 
 First, let's start with the boring stuff.
 
@@ -29,4 +29,4 @@ First, let's start with the boring stuff.
 	<figcaption>BMI compared to self-selected body type across genders</figcaption>
 </figure>
 
-To be continued with the good stuff...
+To be continued...
