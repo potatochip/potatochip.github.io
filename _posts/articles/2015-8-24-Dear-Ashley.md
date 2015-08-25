@@ -29,7 +29,7 @@ First, let's start with the boring stuff.
 	<figcaption>BMI compared to self-selected body type across genders</figcaption>
 </figure>
 
-### Not Alabama
+### Alabama is probably still special in other ways
 
 I think at this point everybody has seen the graph showing Alabama as the most cheating-ist state according to the Ashley Madison credit card transaction data. I have the same data and just could not duplicate those results.
 
