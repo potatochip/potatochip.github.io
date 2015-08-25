@@ -37,12 +37,12 @@ Using the total amount of sales for each state, I divided by the population of t
 
 <figure>
 	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/sales_per_capita.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/sales_per_capita.jpeg" alt="image"></a>
-	<figcaption>DC, where go to spend the most money on corrupt behavior</figcaption>
+	<figcaption>DC: where people go to spend the most money on corrupt behavior</figcaption>
 </figure>
 
 Kind of hilarious that the home of all the politicians is the place spending the most money on cheating. I'm sure there's an analogy in there somewhere for how they treat the general public.
 
-This still doesn't take into account differences in economies. So instead I reorganized the data to show the total number of users per capita per state. I removed duplicate users beforehand to account for people that make multiple transactions. I did this by removing duplicats where the first name, last name, and last four digits of the credit card number were the same.
+This still doesn't take into account differences in economies. So instead I reorganized the data to show the total number of users per capita per state. I removed duplicate users beforehand to account for people that make multiple transactions. I did this by removing duplicates where the first name, last name, and last four digits of the credit card number were the same.
 
 <figure>
 	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/users_per_capita.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/users_per_capita.jpeg" alt="image"></a>
@@ -51,7 +51,7 @@ This still doesn't take into account differences in economies. So instead I reor
 
 The order changes a little, but everything is still generally in the same spot. It's also important to note that these plots just take into account the number of people who paid money to Ashley Madison. It doesn't refer to the total number of people who signed up and were just browsing around.
 
-Since there is a discrepancy with the other author who posted that Alabama-graph, I'm posting my code here if anybody wishes to critique it.
+Since there is a discrepancy with the other author who posted that Alabama-oriented graph, I'm posting my code in case anybody wishes to critique it.
 
 {% highlight python %}
 import matplotlib.pyplot as plt
@@ -60,6 +60,7 @@ import numpy as np
 import glob
 import seaborn as sns
 
+'''create full transaction dataframe'''
 path =r'CreditCardTransactions/'
 allFiles = glob.glob(path + "/*.csv")
 
@@ -79,9 +80,10 @@ column_names = ["ACCOUNT","ACCOUNT NAME","AMOUNT","AUTH CODE","AVS","BRAND","CAR
 frame.columns = column_names
 frame.AMOUNT = frame.AMOUNT.convert_objects(convert_numeric=True)
 
-no_dupes = frame.drop_duplicates(subset=['FIRST NAME', 'LAST NAME', 'CARD ENDING'])
-
 states_by_amount = frame[frame.CTXT_COUNTRY == 'US'].groupby('CTXT_STATE').AMOUNT.sum()
+
+# using no_dupes dataframe so just getting individual users rather than duplicates
+no_dupes = frame.drop_duplicates(subset=['FIRST NAME', 'LAST NAME', 'CARD ENDING'])
 states_by_count = no_dupes[no_dupes.CTXT_COUNTRY == 'US'].CTXT_STATE.value_counts()
 
 abbr = pd.DataFrame.from_csv('state_populations.csv', index_col=None)
@@ -102,7 +104,6 @@ sns.barplot(x='abbreviation', y='users_pc', data=percapita.sort('users_pc', asce
 plt.tight_layout()
 plt.xlabel('State')
 plt.ylabel('Number of Users per Capita')
-plt.savefig('users_per_capita')
 
 {% endhighlight %}
 
