@@ -46,7 +46,7 @@ This still doesn't take into account differences in economies. So instead I reor
 
 <figure>
 	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/users_per_capita.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/users_per_capita.jpeg" alt="image"></a>
-	<figcaption>Chris Christie, is the governor of New Jersey and wants to move to DC? Coincidence? I think not.</figcaption>
+	<figcaption>Chris Christie is the governor of New Jersey and wants to move to DC? Coincidence? I think not.</figcaption>
 </figure>
 
 The order changes a little, but everything is still generally in the same spot. It's also important to note that these plots just take into account the number of people who paid money to Ashley Madison. It doesn't refer to the total number of people who signed up and were just browsing around.
