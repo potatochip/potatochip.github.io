@@ -20,6 +20,6 @@ In my spare time, I race track bikes. I'm aiming to win the track national champ
 When I grow up, I want to be like [Neil deGrasse Tyson](http://twitter.com/neiltyson).
 
 ### Links
-My resume can be found [here]({{ site.baseurl }}/images/aaron_mangum_resume.pdf)
+My resume can be found [here]({{ site.baseurl }}/images/aaron_mangum_resume_web.pdf)
 Visit my github at [https://github.com/potatochip](https://github.com/potatochip)
 [Message me on Twitter](https://twitter.com/AaronMagnum)
