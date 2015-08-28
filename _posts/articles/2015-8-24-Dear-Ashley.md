@@ -25,7 +25,7 @@ First, let's start with the boring stuff.
 </figure>
 
 <figure>
-	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/bodytype_bmi_violin.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/bodytype_bmi_violin_men.jpeg" alt="image"></a>
+	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/bodytype_bmi_violin_men.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/bodytype_bmi_violin_men.jpeg" alt="image"></a>
 	<figcaption>BMI compared to self-selected body type across genders</figcaption>
 </figure>
 
