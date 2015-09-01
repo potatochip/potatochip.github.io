@@ -10,11 +10,11 @@ comments: true
 
 I created an interactive visualization of user kinks across different states. Notably hilarious when you discover where all the users who state, 'I Like to Cross Dress' are coming from. Mouse over the bars in the bar chart for the state's names.
 
-inline svg or picture
+[Click here to view the full interactive map](http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/)
 
-<iframe src="http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/" marginwidth="0" marginheight="0" scrolling="yes" width="700" height="900" frameborder="0">Browswer not supported</iframe>
+<figure>
+	<a href="http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/kinks.png" alt="image"></a>
+	<figcaption>In the navy</figcaption>
+</figure>
 
-[Click here to view the full map](http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/)
-
-
-Previous Ashley Madison-related post can be found [here](http://gifsandgraphs.com/articles/2015-8-24-Dear-Ashley-Madison).
+Previous Ashley Madison-related material can be found [here](http://gifsandgraphs.com/articles/2015-8-24-Dear-Ashley-Madison).
