@@ -118,6 +118,7 @@ A few news organizations have given Ashley Madison credit for being gay inclusiv
 * Single Female seeking Males
 * Male seeking Males
 * Female seeking Females
+
 Is the assumption that if you are gay and on Ashley Madison then you must be cheating? I don't see why AM can't provide equitable options across preferences.
 
 I'm sure everyone has heard the right-wing bag of nuts screaming how allowing gay couples to marry will ruin the sanctity of marriage. To that, I proudly present the following:
