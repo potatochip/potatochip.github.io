@@ -20,7 +20,7 @@ First, let's start with the boring stuff.
 </figure>
 
 <figure>
-	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/male_weight_nyc_v_world.png.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/male_weight_nyc_v_world.png.jpeg" alt="image"></a>
+	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/male_weight_nyc_v_world.png"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/male_weight_nyc_v_world.png" alt="image"></a>
 	<figcaption>AM Body weights in NYC vs the World</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ Is the assumption that if you are gay and on Ashley Madison then you must be che
 I'm sure everyone has heard the right-wing bag of nuts screaming how allowing gay couples to marry will ruin the sanctity of marriage. To that, I proudly present the following:
 
 <figure>
-	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/relationship_to_seeking"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/relationship_to_seeking" alt="image"></a>
+	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/relationship_to_seeking.png"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/relationship_to_seeking.png" alt="image"></a>
 	<figcaption>Books will rot your brain.</figcaption>
 </figure>
 
