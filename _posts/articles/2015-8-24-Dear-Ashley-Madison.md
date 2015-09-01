@@ -131,7 +131,7 @@ I'm sure everyone has heard the right-wing bag of nuts screaming how allowing ga
 This is a plot comparing the hetero (just the attached ones) and gay user base of AM as a percentage of their respective US populations. I think it's pretty clear who isn't very good at complying with their marital contract.
 
 ### Kinkiest state in the USA
-I also made a tiny yet hilariously revealing interactive map in illustrating which state's users are most interested in a particular kink. Check it out [here](http://gifsandgraphs.com/blog/Ashley-Madison-Kinks/).
+I also made a tiny, yet hilariously revealing, interactive map in illustrating which state's users are most interested in a particular kink. Check it out [here](http://gifsandgraphs.com/blog/Ashley-Madison-Kinks/).
 
 [Click here to view the full interactive map](http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/)
 
