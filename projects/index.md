@@ -7,7 +7,8 @@ comments: false
 
 Some finished. Some a work in progress. Almost all not intended for public consumption.
 
-* Something Secret and Hilarious
+* Something Secret and Hilarious (Private for secret reasons)
+* Analysis of Ashley Madison Leak Data (Private for privacy reasons)
 * [Determining Whether a War Crime is Occurring](https://github.com/potatochip/war_crime_prediction)
 * [Predicting Health Code Violations with Yelp Review Data](https://github.com/potatochip/kojak)
 * [Predicting the Passage of Federal Legislation](https://github.com/potatochip/text_processing)

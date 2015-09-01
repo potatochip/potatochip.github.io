@@ -20,8 +20,8 @@ First, let's start with the boring stuff.
 </figure>
 
 <figure>
-	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/weight_gender_count.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/weight_gender_count.jpeg" alt="image"></a>
-	<figcaption>Body weight across genders (just within NYC)</figcaption>
+	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/male_weight_nyc_v_world.png.jpeg"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/male_weight_nyc_v_world.png.jpeg" alt="image"></a>
+	<figcaption>AM Body weights in NYC vs the World</figcaption>
 </figure>
 
 <figure>
@@ -110,6 +110,24 @@ plt.ylabel('Number of Users per Capita')
 
 {% endhighlight %}
 
-### Next up, the nitty-gritty!
+### Hypocrites
+A few news organizations have given Ashley Madison credit for being gay inclusive. What they seem to be missing is that Ashley Madison provides the following sign up options:
+* Attached Male seeking Females
+* Attached Female seeking Males
+* Single Male seeking Females
+* Single Female seeking Males
+* Male seeking Males
+* Female seeking Females
+Is the assumption that if you are gay and on Ashley Madison then you must be cheating? I don't see why AM can't provide equitable options across preferences.
 
-To be continued...
+I'm sure everyone has heard the right-wing bag of nuts screaming how allowing gay couples to marry will ruin the sanctity of marriage. To that, I proudly present the following:
+
+<figure>
+	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/relationship_to_seeking"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/relationship_to_seeking" alt="image"></a>
+	<figcaption>Books will rot your brain.</figcaption>
+</figure>
+
+This is a plot comparing the hetero (just the attached ones) and gay user base of AM as a percentage of their respective US populations. I think it's pretty clear who isn't very good at complying with their marital contract.
+
+### Kinkiest state in the USA
+I also made a tiny yet hilariously revealing interactive map in illustrating which state's users are most interested in a particular kinky. Check it out [here](http://gifsandgraphs.com/blog/Ashley-Madison-Kinks/).
