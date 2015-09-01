@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Naval Cheaters Really Like to Cross Dress
+title: "M4F: Board at Sea"
 excerpt: Ashley Madison user kinks according to US state in a D3 Map
 tags: [Data Science, Graphs, lol, d3]
 categories: blog
