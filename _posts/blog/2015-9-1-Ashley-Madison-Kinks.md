@@ -12,7 +12,7 @@ I created an interactive visualization of user kinks across different states. No
 
 inline svg or picture
 
-<iframe src="http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/" marginwidth="0" marginheight="0" scrolling="no" width="700" height="1000" frameborder="0">Browswer not supported</iframe>
+<iframe src="http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/" marginwidth="0" marginheight="0" scrolling="yes" width="700" height="900" frameborder="0">Browswer not supported</iframe>
 
 [Click here to view the full map](http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/)
 
