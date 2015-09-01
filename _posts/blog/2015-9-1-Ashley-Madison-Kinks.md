@@ -17,4 +17,4 @@ I created an interactive visualization of user kinks across different states. No
 	<figcaption>In the navy</figcaption>
 </figure>
 
-Previous Ashley Madison-related material can be found [here](http://gifsandgraphs.com/articles/2015-8-24-Dear-Ashley-Madison).
+Previous Ashley Madison-related material can be found [here](http://gifsandgraphs.com/articles/Dear-Ashley-Madison/).
