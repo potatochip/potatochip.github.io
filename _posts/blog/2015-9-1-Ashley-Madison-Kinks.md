@@ -8,7 +8,7 @@ share: true
 comments: true
 ---
 
-I created an interactive visualization of user kinks across different states. Notably hilarious when you discover where all the users saying, 'I Like to Cross Dress' are. Mouse over the bars in the bar chart for the state's names.
+I created an interactive visualization of user kinks across different states. 'FP' stands for Navy and is always hilarious. Mouse over the bars in the bar chart for the state's names.
 
 [Click here to view the full interactive map](http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/)
 
