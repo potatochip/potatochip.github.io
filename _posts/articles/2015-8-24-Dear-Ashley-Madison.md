@@ -6,6 +6,7 @@ categories: articles
 tags: [Data Science, Graphs, lols]
 comments: true
 share: true
+permalink: Dear-Ashley-Madison
 ---
 
 Dear Ashley,
@@ -121,7 +122,7 @@ A few news organizations have given Ashley Madison credit for being gay inclusiv
 
 Is the assumption that if you are gay and on Ashley Madison then you must be cheating? I don't see why AM can't provide equitable options across preferences.
 
-I'm sure everyone has heard the right-wing bag of nuts screaming how allowing gay couples to marry will ruin the sanctity of marriage. To that, I proudly present the following:
+I'm sure everyone has heard people screaming how allowing gay couples to marry will ruin the sanctity of marriage. To that, I proudly present the following:
 
 <figure>
 	<a href="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/relationship_to_seeking.png"><img src="{{ site.baseurl }}/images/2015-8-24-Dear-Ashley/relationship_to_seeking.png" alt="image"></a>
@@ -131,7 +132,7 @@ I'm sure everyone has heard the right-wing bag of nuts screaming how allowing ga
 This is a plot comparing the hetero (just the attached ones) and gay user base of AM as a percentage of their respective US populations. I think it's pretty clear who isn't very good at complying with their marital contract.
 
 ### Kinkiest state in the USA
-I also made a tiny, yet hilariously revealing, interactive map in illustrating which state's users are most interested in a particular kink. Check it out [here](http://gifsandgraphs.com/blog/Ashley-Madison-Kinks/).
+I also made a tiny, yet hilariously revealing, interactive map illustrating which state's users are most interested in a particular kink. Be sure to click the buttons to the right. Check it out [here](http://gifsandgraphs.com/blog/Ashley-Madison-Kinks/).
 
 [Click here to view the full interactive map](http://bl.ocks.org/potatochip/raw/756ef5fcc9febfb4fd66/)
 
