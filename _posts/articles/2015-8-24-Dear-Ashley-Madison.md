@@ -111,8 +111,10 @@ plt.ylabel('Number of Users per Capita')
 
 {% endhighlight %}
 
-### Hypocrites
+### Who ruined marriage?
+
 A few news organizations have given Ashley Madison credit for being gay inclusive. What they seem to be missing is that Ashley Madison provides the following sign up options:
+
 * Attached Male seeking Females
 * Attached Female seeking Males
 * Single Male seeking Females
