@@ -9,9 +9,7 @@ comments: true
 permalink: Heart-Disease-D3
 ---
 
-This was the first time I tried my hand at D3 (or any javascript, for that matter). I'm rather proud that I wrote the thing from scratch rather than just shoving my data into an existing visualization.
-
-D3 is pretty nifty. Here, I was even able to change the color palette of the entire thing just by selectively uncommenting a single line of code. But, the real magic of D3 is that the tiniest, most unexpected things break EVERYTHING.
+This was the first time I tried my hand at D3. Pretty nifty stuff, but the real magic of D3 is that the tiniest, most unexpected things break EVERYTHING.
 
 This is an illustration of different heart disease prediction models. At its base, it just shows the accuracy of each individual feature. Click some rows and the accuracy (and representative shading) changes to show how the combination of features affects the models.
 
